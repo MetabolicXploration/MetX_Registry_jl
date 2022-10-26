@@ -4,3 +4,4 @@ repo = "https://github.com/MetabolicXploration/MetX_Registry_jl"
 description = "A local registry for non General packages"
 
 [packages]
+aeeda050-7d39-4c85-b6eb-65567cadcf3d = { name = "DevTests", path = "D/DevTests" }
