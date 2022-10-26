@@ -2,3 +2,5 @@ name = "MetX_Registry_jl"
 uuid = "1c72429a-3511-4c8d-85f7-40c1dbddce41"
 repo = "https://github.com/MetabolicXploration/MetX_Registry_jl"
 description = "A local registry for non General packages"
+
+[packages]
