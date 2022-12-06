@@ -6,6 +6,7 @@ description = "A local registry for non General packages"
 [packages]
 01815447-a018-4668-9805-89f51b3fc6a1 = { name = "MetX", path = "M/MetX" }
 0b8c4419-604a-4c8e-9eed-0f79de4a140e = { name = "MetXBase", path = "M/MetXBase" }
+3facea42-c6d8-46ab-8896-2657a92d9f87 = { name = "MetXEP", path = "M/MetXEP" }
 672bf490-d3aa-44fe-a664-43445036b9de = { name = "MetXOptim", path = "M/MetXOptim" }
 aeeda050-7d39-4c85-b6eb-65567cadcf4d = { name = "RunTestsEnv", path = "R/RunTestsEnv" }
 be9415a8-24b2-49ae-ba75-41eeaa9f722f = { name = "MetXNetHub", path = "M/MetXNetHub" }
