@@ -4,3 +4,7 @@ RunTestsEnv = "aeeda050-7d39-4c85-b6eb-65567cadcf4d"
 Scratch = "6c6a2e73-6563-6170-7368-637461726353"
 Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+
+["0.2-0"]
+MetXCultureHub = "c8a5ff98-18da-494d-98cc-f2d3bae7da4c"
+MetXGEMs = "f53f3d78-cab5-4f57-a3bb-d62de48011ec"
