@@ -15,3 +15,4 @@ bfe2832f-5600-46d7-a449-140889a58637 = { name = "StringRepFilter", path = "S/Str
 c8a5ff98-18da-494d-98cc-f2d3bae7da4c = { name = "MetXCultureHub", path = "M/MetXCultureHub" }
 c9719566-2c26-451b-95bc-5aa9e2747dfa = { name = "NDHistograms", path = "N/NDHistograms" }
 d4a97fa3-1e77-4085-814f-98651929ce7d = { name = "MetXMC", path = "M/MetXMC" }
+f53f3d78-cab5-4f57-a3bb-d62de48011ec = { name = "MetXGEMs", path = "M/MetXGEMs" }
