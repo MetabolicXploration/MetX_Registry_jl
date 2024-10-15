@@ -8,11 +8,11 @@ ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 Tulip = "6dd1b50a-3aae-11e9-10b5-ef983d2400fa"
 
-["0-0.1"]
+["0 - 0.1"]
 MetXNetHub = "be9415a8-24b2-49ae-ba75-41eeaa9f722f"
 
 ["0.1.6"]
 CPLEX = "a076750e-1247-5638-91d2-ce28b192dca0"
 
-["0.2-0"]
+["0.2 - 0"]
 RunTestsEnv = "aeeda050-7d39-4c85-b6eb-65567cadcf4d"
